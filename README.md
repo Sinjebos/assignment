@@ -7,7 +7,7 @@
 
 **Varför använder jag mig utav den?**
 
-*Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.*
+*Känner att VSC är väldigt bekväm för mig och är lätt att navigera sig runt i, även lätt att installera extensions på.*
 
 **Om jag inte fick använda nuvarande editor, vilken hade jag valt?**
 
@@ -22,7 +22,18 @@
 *Tyckte det verkade som en rolig app att skriva som kan bli ännu bättre när jag har utvecklats mer inom Python*
 
 
-Vad är Linux?
-Vad finns det för användningsområden inom Linux?
-Beskriv hur ni använt er av Linux i denna applikation
-Beskriv de olika tjänster ni känner till som finns i Linux
+**Vad är Linux?**
+
+*Ett operativsystem*
+
+**Vad finns det för användningsområden inom Linux?**
+
+*.*
+
+**Beskriv hur ni använt er av Linux i denna applikation**
+
+*.*
+
+**Beskriv de olika tjänster ni känner till som finns i Linux**
+
+*.*
