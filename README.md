@@ -1,5 +1,5 @@
-                                                    **INLÄMNING2 RAPPORT**
-        ##Vilken editor ni använder er utav?
+*INLÄMNING2 RAPPORT*
+**Vilken editor ni använder er utav?**
         
         Visual Studio Code - VSC
 
