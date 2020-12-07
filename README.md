@@ -1,8 +1,7 @@
                                                     **INLÄMNING2 RAPPORT**
-        ##Vilken editor ni använder er utav?
+        Vilken editor ni använder er utav?
         
-        Visual Studio Code - VSC
-
+        *Visual Studio Code*
         Varför använder ni er utav den?
 
         Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.
