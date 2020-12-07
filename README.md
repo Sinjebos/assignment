@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 *INLÄMNING2 RAPPORT*
 **Vilken editor ni använder er utav?**
+=======
+                                                    **INLÄMNING2 RAPPORT**
+        Vilken editor ni använder er utav?
+>>>>>>> 71d48901474c9cc4a7f04713a9d4750b506fefa3
         
-        Visual Studio Code - VSC
-
+        *Visual Studio Code*
         Varför använder ni er utav den?
 
         Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.
