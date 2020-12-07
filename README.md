@@ -1,25 +1,25 @@
 **INLÄMNING2 RAPPORT**
 
 
-**Vilken editor ni använder er utav?**
+**Vilken editor jag använder mig utav?**
 
 *Visual Studo code - VSC*
 
-**Varför använder ni er utav den?**
+**Varför använder jag mig utav den?**
 
 *Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.*
 
-**Om ni inte fick använda nuvarande editor, vilken hade du valt?**
+**Om jag inte fick använda nuvarande editor, vilken hade jag valt?**
 
-VIM
+*VIM*
 
-Motivera:
+**Motivera:**
 
-VIM är rolig, körs i terminalen och för kunna använda sig utav den måste man använda kommandon i terminalen för att navigera sig.
+*VIM är roligt, körs direkt terminalen och för kunna använda sig utav den måste man använda kommandon i terminalen för att navigera sig.*
 
-Kort om varför ni valde att bygga den typen av app:
+**Kort om varför jag valde att bygga den typen av app:**
 
-
+*Tyckte det verkade som en rolig app att skriva som kan bli ännu bättre när jag har utvecklats mer inom Python*
 
 
 Vad är Linux?
