@@ -1,12 +1,15 @@
-*INLÄMNING2 RAPPORT*
+**INLÄMNING2 RAPPORT**
 
 
 **Vilken editor ni använder er utav?**
-Varför använder ni er utav den?
 
-Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.
+*Visual Studo code - VSC*
 
-Om ni inte fick använda nuvarande editor, vilken hade du valt?
+**Varför använder ni er utav den?**
+
+*Känner att VSC är väldigt bekväm och lätt att navigera sig runt i, lätt att installera extensions på.*
+
+**Om ni inte fick använda nuvarande editor, vilken hade du valt?**
 
 VIM
 
