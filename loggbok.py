@@ -1,7 +1,7 @@
 import time
 import datetime
 import os
-
+import glob
 date = datetime.datetime.now()
 ## creates a new file with .txt in current folder and lets the user add title, text and automaticlly adds the date it was created ##
 def newFile():
@@ -20,10 +20,10 @@ def removeFile():
 
 ## print all files that ends with .txt ##
 def printallFiles():
-    read_all_files = ""
-    if read_all_files.endswith(".txt"):
-        my_file = open(read_all_files, 'r')
-        print(my_file.read())
+    all_files = glob.glob("*.txt")
+    for files in all_files:
+        read_all_files = open(files, 'r')
+        print(read_all_files.read())
 ## user search for a file that ends with .txt ##
 def searchForFile():
     read_file = input("What file would you like to search for?\nFile: ") + ".txt"
@@ -34,8 +34,6 @@ def searchForFile():
         print("You dont have any file with that name")
 
 ## code running ##
-print("Loading ... ")
-time.sleep(2)
 print("Welcome to your virtual filebook")
 isRunning = True
 while isRunning:
