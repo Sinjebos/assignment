@@ -24,7 +24,7 @@
 
 **Vad är Linux?**
 
-*Ett operativsystem och en kärna*
+*en kärna*
 
 **Vad finns det för användningsområden inom Linux?**
 
